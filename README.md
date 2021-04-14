@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on my Flutter projects.
 - 🌱 I’m currently learning Flutter.
-- 🤔 I’m looking for help with getting a job as a Flutter developer.
+- 🤔 I’m looking for job as a Flutter developer.
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I love video games.
 
