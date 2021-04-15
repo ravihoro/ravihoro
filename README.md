@@ -6,5 +6,5 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I love video games.
 
-<img src = "https://github-readme-stats.vercel.app/api?username=ravihoro&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" width = 500> <br>
-<img src = "./code.gif">
+<img src = "./code.gif" width = 500><br>
+<img src = "https://github-readme-stats.vercel.app/api?username=ravihoro&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
