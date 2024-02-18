@@ -1,8 +1,8 @@
 ### Hola, I'm Ravi Horo 👋
 
-- 🔭 I’m currently working on my Flutter projects.
-- 🌱 I’m currently learning Flutter.
-- 🤔 I’m looking for job as a Flutter developer.
+- 🔭 I’m a Flutter Developer with around 3 years of hands-on experience.
+- 🌱 I’m currently learning DDD and TDD.
+- 🤔 I’m looking for a remote job as a Flutter developer.
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I love video games.
 
